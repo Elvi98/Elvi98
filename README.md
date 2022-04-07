@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elvia</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvi98" alt="elvi98" /></a> </p>
-
 - 🌱 I’m currently learning **Java & Angular**
 
 - 📫 How to reach me **elvia.arteaga98@hotmail.com**
